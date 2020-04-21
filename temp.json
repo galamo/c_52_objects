@@ -1,0 +1,8 @@
+{
+  "car": {
+    "lp": 8728082333,
+    "color": "red",
+    "tests": [2017, 2018, 2019],
+    "type": { "manufacturer": "BMW", "version": "X5" }
+  }
+}
